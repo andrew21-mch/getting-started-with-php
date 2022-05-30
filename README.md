@@ -10,7 +10,10 @@
             <li><a href="intro/scope.php">Variables Scope</a></li>
         </ul></li>
     <hr>
-    <li><a href="data_types">Data types in php</a></li>
+    <li><a href="data_types">Data types in php</a>
+    <ul>
+        <li><a href="data_types/datatypes.php">Some data types</a></li>
+    </ul>
     <hr>
     <li><a href="constants">constants in php</a></li>
     <hr>
