@@ -1,10 +1,10 @@
-## Welcome to Zuri Internshp 2022
+## Welcome to gettings started with php
 ### What you find here are the project files for the tutorials on youtube to help you follow allong
 
 <ul>
     <li><a href="intro">Introduction to php</a>
       <ul>
-            <li><a href="intro/index.php">Hello Zuri</a></li>
+            <li><a href="intro/index.php">Hello PHP</a></li>
             <li><a href="intro/comment.php">Comments In PHP</a></li>
             <li><a href="intro/variables.php">Variables In PHP</a></li>
             <li><a href="intro/scope.php">Variables Scope</a></li>
